@@ -201,10 +201,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="测试频道",VB
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-
 #EXTINF:-1 group-title="测试频道",俄·IGITV蓝光
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -213,11 +209,11 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 http://92.50.128.180/utv/1358/index.m3u8
 
-#EXTINF:-1 group-title="测试频道",美·NASA Public Channel
+#EXTINF:-1 group-title="测试频道",美·A NASA Public Channel
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 group-title="测试频道",美·NASA Public Channel
+#EXTINF:-1 group-title="测试频道",美·B NASA Public Channel
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
@@ -257,17 +253,9 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
-#EXTINF:-1 group-title="测试频道",ABC新闻
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-
 #EXTINF:-1 group-title="测试频道",NewsmaxTV
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 group-title="测试频道",PBSAmerica
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="测试频道",moviesphere
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
@@ -285,42 +273,11 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 group-title="测试频道",InsightTV
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="测试频道",Astrakhan24(Opt-2)
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-
-#EXTINF:-1 group-title="测试频道",Самара
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="测试频道",Comedy
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://51.210.199.27/hls/stream.m3u8
-
 #EXTINF:-1 group-title="测试频道",Documentary
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 http://51.210.199.23/hls/stream.m3u8
 
-#EXTINF:-1 group-title="测试频道",Family
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://51.210.199.19/hls/stream.m3u8
 
-#EXTINF:-1 group-title="测试频道",Iranian
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://51.210.199.22/hls/stream.m3u8
-
-#EXTINF:-1 group-title="测试频道",Music
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://51.210.199.24/hls/stream.m3u8
-
-#EXTINF:-1 group-title="测试频道",Nostalgia
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://51.210.199.20/hls/stream.m3u8
 
 #EXTINF:-1 group-title="测试频道",韩国-Arirang
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
