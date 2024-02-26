@@ -425,6 +425,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 
+
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> KNOWLEDGE
 //========================================================================
@@ -439,20 +440,20 @@ http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566
 
 
 
-#EXTINF:-1 tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="KNOWLEDGE",Discovery Asia
+#EXTINF:-1 tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="KNOWLEDGE",Discovery Asia 1
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/discovery.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
-http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11792
-
-#EXTINF:-1 tvg-name="探索頻道" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="KNOWLEDGE",Discovery
+#EXTINF:-1 tvg-name="探索頻道" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" group-title="KNOWLEDGE",Discovery 2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
 http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/natgeo.png" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:257_HD.smil/manifest.mpd
 
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/discovery.png" group-title="KNOWLEDGE",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/23.12.20
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11792
 
 #EXTINF:-1 tvg-logo="https://hometv.pw/logo/knowledge2/natgeo_wild.png" group-title="KNOWLEDGE",NAT GEO WILD
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/manifest.mpd
@@ -530,25 +531,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="KNOWLEDGE",Discovery HD
-http://otv.ftpbd.net:8082/Discovery-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="DiscoveryAsia.hk" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/BOViyhR.png" group-title="KNOWLEDGE",Discovery Asia
+#EXTINF:-1 tvg-chno="" tvg-id="DiscoveryAsia.hk" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/BOViyhR.png" group-title="KNOWLEDGE",Discovery Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="investigationdiscoveryeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/640px-InvestigationDiscoveryLogo2020.svg.png",Discovery Investigation 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
-https://webudit.hlsjs.ru/lb/premium324/index.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="smithsonianchanneleast.us" tvg-logo="https://i.imgur.com/okSbavu.png",Smithsonian Channel 
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8 
-
-#EXTINF:0 tvg-name="DMAX UK" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png", DMAX
-https://varun-iptv.netlify.app/m3u/DMAX.m3u8
-
-//////////////////////////
 
 
 //========================================================================
