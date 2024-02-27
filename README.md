@@ -852,47 +852,43 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=
 
 ===========================================================================
 
-#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 1" tvg-name="True Premier Football 1" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="Sports",True Premier Football 1
+#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 1" tvg-name="True Premier Football 1" tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="SPORTS",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 2" tvg-name="True Premier Football 2" tvg-logo="https://i.imgur.com/yS94g00.png" group-title="Sports",True Premier Football 2
+#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 2" tvg-name="True Premier Football 2" tvg-logo="https://i.imgur.com/yS94g00.png" group-title="SPORTS",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 3" tvg-name="True Premier Football 3" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="Sports",True Premier Football 3
+#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 3" tvg-name="True Premier Football 3" tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="SPORTS",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 4" tvg-name="True Premier Football 4" tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="Sports",True Premier Football 4
+#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 4" tvg-name="True Premier Football 4" tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="SPORTS",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 5" tvg-name="True Premier Football 5" tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="Sports",True Premier Football 5
+#EXTINF:-1 tvg-chno="" tvg-id="True Premier Football 5" tvg-name="True Premier Football 5" tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="SPORTS",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 1" tvg-name="TRUE SPORTS 1" tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="Sports",TRUE SPORTS 1
+#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 1" tvg-name="TRUE SPORTS 1" tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="SPORTS",TRUE SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 2" tvg-name="TRUE SPORTS 2" tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="Sports",TRUE SPORTS 2
+#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 2" tvg-name="TRUE SPORTS 2" tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="SPORTS",TRUE SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 2" tvg-name="TRUE SPORTS 2" tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="Sports",TRUE SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.youdooball.com
-
-#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 3" tvg-name="TRUE SPORTS 3" tvg-logo="https://i.imgur.com/760fLOg.png" group-title="Sports",TRUE SPORTS 3
+#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 3" tvg-name="TRUE SPORTS 3" tvg-logo="https://i.imgur.com/760fLOg.png" group-title="SPORTS",TRUE SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 4" tvg-name="TRUE SPORTS 4" tvg-logo="https://i.imgur.com/6MUEjll.png" group-title="Sports",TRUE SPORTS 4
+#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 4" tvg-name="TRUE SPORTS 4" tvg-logo="https://i.imgur.com/6MUEjll.png" group-title="SPORTS",TRUE SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 5" tvg-name="TRUE SPORTS 5" tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="Sports",TRUE SPORTS 5
+#EXTINF:-1 tvg-chno="" tvg-id="TRUE SPORTS 5" tvg-name="TRUE SPORTS 5" tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="SPORTS",TRUE SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
@@ -900,15 +896,15 @@ https://youdooball.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8|Refer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="EDGEsport.th" tvg-name="EDGEsport Channel" tvg-logo="https://i.imgur.com/Vql6RaF.png" group-title="Sports",EDGEsport Channel
+#EXTINF:-1 tvg-chno="" tvg-id="EDGEsport.th" tvg-name="EDGEsport Channel" tvg-logo="https://i.imgur.com/Vql6RaF.png" group-title="SPORTS",EDGEsport Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="FITE" tvg-name="FITE" tvg-logo="https://www.fite.tv/static/img/home_fite_tw_bg_02.jpg" group-title="Sports",FITE
+#EXTINF:-1 tvg-chno="" tvg-id="FITE" tvg-name="FITE" tvg-logo="https://www.fite.tv/static/img/home_fite_tw_bg_02.jpg" group-title="SPORTS",FITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -916,88 +912,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 
 
 
-#EXTINF:-1 tvg-chno="" tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://i.imgur.com/IdAB2wR.jpg" group-title="Sports",Tennis
+#EXTINF:-1 tvg-chno="" tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://i.imgur.com/IdAB2wR.jpg" group-title="SPORTS",Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="FIght Sport" tvg-name="FIght Sport" tvg-logo="https://i.imgur.com/e51mUq9.png" group-title="Sports",FIght Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="MUTV.uk" tvg-name="MU TV" tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="Sports",MU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://i.imgur.com/hWdxcRX.png" group-title="Sports",LFC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=45268&extension=ts&play_token=s9LESp5By3
-
-#EXTINF:-1 tvg-chno="" tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sports",Real Madrid TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-chno="" tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://i.imgur.com/uasPtYv.png" group-title="Sports",TRACE SPORT STARS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-chno="" tvg-id="ABU DHABI SPORT 1 HD" tvg-name="ABU DHABI SPORT 1 HD" tvg-logo="https://i.postimg.cc/4NNF0d6m/ABU-DHABI-SPORTS-1.png" group-title="Sports",ABU DHABI SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="ABU DHABI SPORT 2 HD" tvg-name="ABU DHABI SPORT 2 HD" tvg-logo="https://i.postimg.cc/Bnj7qVw3/ABU-DHABI-SPORTS-2.png" group-title="Sports",ABU DHABI SPORT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="ABU DHABI SPORT 3 HD" tvg-name="ABU DHABI SPORT 3 HD" tvg-logo="https://i.postimg.cc/4xjLnQr9/ABU-DHABI-SPORTS-3.png" group-title="Sports",ABU DHABI SPORT 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="ABU DHABI SPORT 4 HD" tvg-name="ABU DHABI SPORT 4 HD" tvg-logo="https://i.postimg.cc/3JSbQT19/ABU-DHABI-SPORTS-4.png" group-title="Sports",ABU DHABI SPORT 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="Dubai SPORT 1 HD" tvg-name="Dubai SPORT 1 HD" tvg-logo="http://bit.ly/2vEKtMM" group-title="Sports",Dubai SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmitnthvll.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="Dubai SPORT 2 HD" tvg-name="Dubai SPORT 2 HD" tvg-logo="http://bit.ly/2w63Hub" group-title="Sports",Dubai SPORT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="Dubai SPORT 3 HD" tvg-name="Dubai SPORT 3 HD" tvg-logo="http://bit.ly/2w63Hub" group-title="Sports",Dubai SPORT 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="Dubai Racing 1 HD" tvg-name="Dubai Racing 1 HD" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bcc4ab3b1.png" group-title="Sports",Dubai Racing 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="Dubai Racing 2 HD" tvg-name="Dubai Racing 2 HD" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png" group-title="Sports",Dubai Racing 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="Dubai Racing 3 HD" tvg-name="Dubai Racing 3 HD" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bfea86c98.png" group-title="Sports",Dubai Racing 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-chno="" tvg-id="WWE CHANNEL HD" tvg-name="WWE CHANNEL HD" tvg-logo="https://i.imgur.com/AhmmvrS.png" group-title="Sports",WWE CHANNEL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9143
-
-#EXTINF:-1 tvg-chno="" tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://i.imgur.com/AhmmvrS.png" group-title="Sports",WWE Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://source.strictv.com:80/play/live.php?mac=00:1a:79:11:22:31&stream=571184&extension=ts
-
-#EXTINF:-1 tvg-chno="" tvg-id="PlutoTVIMPACTWrestling.us" tvg-name="IMPACT Wrestling" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT Wrestling
+#EXTINF:-1 tvg-chno="" tvg-id="PlutoTVIMPACTWrestling.us" tvg-name="IMPACT Wrestling" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="SPORTS",IMPACT Wrestling
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="redbulltv.us" tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/OaiWDnU.png" group-title="Sports",RED BULL TV
+#EXTINF:-1 tvg-chno="" tvg-id="redbulltv.us" tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/OaiWDnU.png" group-title="SPORTS",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
