@@ -533,6 +533,17 @@ https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 //////////////////////////
 
 
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="foxsports1.us" tvg-logo="https://imgx.fubo.tv/station_logos/fs1_2021_m.png",FOX Sports 1 
+#EXTVLCOPT:http-referrer=https://key.webhd.ru/wmsxx.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webudit.hlsjs.ru/lb/premium39/index.m3u8|Origin=https://weblivehdplay.ru
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="foxsports2.us" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_2021_m.png",FOX Sports 2 
+#EXTVLCOPT:http-referrer=https://key.webhd.ru/wmsxx.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webudit.hlsjs.ru/lb/eplayerfs2/index.m3u8|Origin=https://weblivehdplay.ru
+
+
 //========================================================================
 
 
