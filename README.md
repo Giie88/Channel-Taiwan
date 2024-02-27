@@ -84,9 +84,6 @@ https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1 tvg-id="ETMall60.tw" tvg-logo="" group-title="Taiwan",ET Mall 60
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
-#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-14/69bbb859523176a445b587d2e6f0e281.png" tvg-name="东森幼幼台" group-title="Taiwan",东森幼幼台
-https://pkj99.github.io/YTLive/東森幼幼台.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/momo-shop-live.jpg" tvg-name="MOMO购物1" group-title="Taiwan",MOMO购物1
 https://pkj99.github.io/YTLive/MOMO購物一台.m3u8
 
@@ -104,6 +101,9 @@ https://pkj99.github.io/YTLive/三立新闻台.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-12/b4555f5a3a2c872195304987e9f4f324.png" tvg-name="TVBS新闻台" group-title="Taiwan",TVBS新闻台
 https://pkj99.github.io/YTLive/TVBS新聞.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-05-15/20804acec838b898ce1d7c285ba0b620.png" tvg-name="东森财经新闻台" group-title="Taiwan",东森财经新闻台
+https://pkj99.github.io/YTLive/東森財經新聞.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-18/db88abb55834d8b0864ba681c3f4d80a.png" tvg-name="大爱一台" group-title="Taiwan",大爱一台1
 https://pkj99.github.io/YTLive/大愛一台.m3u8
