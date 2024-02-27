@@ -47,7 +47,6 @@ http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&c
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 
-
 ==============IP THAI=================
 
 #EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="Taiwan",DaAi 1
@@ -70,10 +69,13 @@ https://pkj99.github.io/YTLive/民視第一台.m3u8
 
 #EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="Taiwan",民视综艺台
 https://pkj99.github.io/YTLive/民視綜藝台.m3u8
+
 #EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="" group-title="Taiwan",Global News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+
 #EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="Taiwan",SET iNews
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+
 #EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan",TTV News
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 tvg-id="mnews.tw" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw" group-title="Taiwan",mnews
@@ -83,13 +85,16 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-04-14/69bbb859523176a445b587d2e6f0e281.png" tvg-name="东森幼幼台" group-title="Taiwan",东森幼幼台
 https://pkj99.github.io/YTLive/東森幼幼台.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/momo-shop-live.jpg" tvg-name="MOMO购物1" group-title="Taiwan",MOMO购物1
 https://pkj99.github.io/YTLive/MOMO購物一台.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/momo-shop-live.jpg" tvg-name="MOMO购物2" group-title="Taiwan",MOMO购物2
 https://pkj99.github.io/YTLive/MOMO購物二台.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivatv.com.tw/common/images/header/logo.png" tvg-name="美好购物1台" group-title="Taiwan",美好购物1台
 https://pkj99.github.io/YTLive/美好購物1台.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.1111.com.tw/news/news60594.jpg" tvg-name="美好购物2台" group-title="Taiwan",美好购物2台
 https://pkj99.github.io/YTLive/美好購物2台.m3u8
 
@@ -119,18 +124,6 @@ https://ythls.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3ifppxyz9sa2s.cloudfront.net/media/img/2023-05-15/20804acec838b898ce1d7c285ba0b620.png" tvg-name="东森财经新闻台" group-title="Taiwan",东森财经新闻台2
 https://ythls.onrender.com/channel/UCuzqko_GKcj9922M1gUo__w.m3u8
-
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" tvg-name="中天新闻台" group-title="Taiwan",中天新闻台
-https://ythls.onrender.com/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" tvg-name="中视新闻" group-title="Taiwan",中视新闻
-https://ythls.onrender.com/channel/UCmH4q-YjeazayYCVHHkGAMA.m3u8
-
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" tvg-name="台视新闻台" group-title="Taiwan",台视新闻台
-https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" tvg-name="寰宇新闻" group-title="Taiwan",寰宇新闻
-https://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" tvg-name="民视新闻台" group-title="Taiwan",民视新闻台
 https://pkj99.github.io/YTLive/民視新聞台.m3u8
