@@ -892,7 +892,7 @@ https://youdooball.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Refer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://youdooball.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8|Referer=https://www.youdooball.com
 
-#EXTINF:-1 tvg-chno="" tvg-id="ONE GOLF" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/AOkqHR5.jpg" group-title="Sports",ONE GOLF
+#EXTINF:-1 tvg-chno="" tvg-id="ONE GOLF" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/AOkqHR5.jpg" group-title="SPORTS",ONE GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
