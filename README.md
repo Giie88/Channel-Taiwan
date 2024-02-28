@@ -6,46 +6,7 @@
 
 #EXTM3U 
 
-//========================================================================
-//copy right by,@hometv menampilkan playlist >>> TAIWAN
-//========================================================================
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/set2.png" group-title="🇹🇼 TAIWAN",SET 三立戏剧
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/669
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/cti_enter.png" group-title="🇹🇼 TAIWAN",CTi Entertainment 中天娱乐台
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/670
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/cti_asia.png" group-title="🇹🇼 TAIWAN",CTI Asia 中天亞洲台
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/671
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/ttv.png" group-title="🇹🇼 TAIWAN",TTV 台视
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/672
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/cts.png" group-title="🇹🇼 TAIWAN",CTS 华视
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/673
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/ctv.png" group-title="🇹🇼 TAIWAN",CTV 中视
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2new/9OKqDp3L9S/675
-
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/ettv_western.png" group-title="🇹🇼 TAIWAN",EBC Western 东森洋片
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/tvbs2.png" group-title="🇹🇼 TAIWAN",TVBS HUAN LE 欢乐
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
-
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/taiwan2/tvbs2.png" group-title="🇹🇼 TAIWAN",TVBS
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 
 ==============IP THAI=================
 
